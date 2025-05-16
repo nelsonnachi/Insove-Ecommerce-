@@ -13,7 +13,7 @@ const NewsLetter = () => {
         <div>
         <div className='flex bg-[#f4f4f7]'>
           <input type="email" placeholder='Email Address' className='p-4 bg-[#f4f4f7] w-[266px] outline-none text-[14px]'/>
-          <button className='bg-[#222529] text-white ring-1 ring-[#222529] px-3 py-2.5  !rounded-none !font-bold'>Submit</button>
+          // <button className='bg-[#222529] text-white ring-1 ring-[#222529] px-3 py-2.5  !rounded-none !font-bold'>Submit</button>
         </div>
         </div>
         <div className='flex gap-x-3 pr-14'>
